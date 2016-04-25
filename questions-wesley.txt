@@ -1,0 +1,4 @@
+- Why was Drupal chosen initially?
+- How many people are estimated to work on all subsites in total? From all 26 countries?
+- How many sites are there now and how many are expected by the end of the year?
+
