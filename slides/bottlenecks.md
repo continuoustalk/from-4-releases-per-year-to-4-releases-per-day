@@ -1,3 +1,5 @@
 ##  Bottlenecks
 
-This is a new Markdown slide
+* Manual code review
+* Manual deployment
+* Manual testing every 3 months
