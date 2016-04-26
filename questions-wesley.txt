@@ -1,4 +1,8 @@
 - Why was Drupal chosen initially?
-- How many people are estimated to work on all subsites in total? From all 26 countries?
-- How many sites are there now and how many are expected by the end of the year?
+    EC needed a CMS that was open source, a proven good one (white house etc...) and with a large community in order to easily find developers
 
+- How many people are estimated to work on all subsites in total? From all 26 countries?
+    between 2 and 3 hundreds developers, around a thousand of "contributor" writing content on the platform on a daily basis.
+    
+- How many sites are there now and how many are expected by the end of the year?
+    Around 100 sites and counting. more than 100 new sites planned in 2016
