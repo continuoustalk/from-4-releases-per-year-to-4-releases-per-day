@@ -1,8 +1,7 @@
-<h2>Target audience</h2>
+## Background
 
 * European Commission
-* Large government organisation
-* 60000 employees
 * Hundreds of websites, many in static HTML
 * Millions of pages, total is unknown
 * Myriad of different technologies
+* Single portal: http://europa.eu

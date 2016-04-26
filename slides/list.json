@@ -1,5 +1,14 @@
 [
     "index.md",
-    "background.html",
-    "target-audience.html"
+    "background.md",
+    "target-audience.md",
+    "adopting-drupal.md",
+    "nexteuropa-distribution.md",
+    "version-control.md",
+    "rising-challenges.md",
+    "growing-too-fast.md",
+    "distributed-teams.md",
+    "outdated-practices.md",
+    "bottlenecks.md",
+    "regressions.md"
 ]

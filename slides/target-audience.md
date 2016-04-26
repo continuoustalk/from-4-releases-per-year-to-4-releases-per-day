@@ -1,4 +1,4 @@
-<h2>Target audience</h2>
+## Target audience
 
 * 500 million people
 * 28 countries
