@@ -1,3 +1,7 @@
 ##  Goals
 
-This is a new Markdown slide
+* Unify web + hosting technologies
+* Streamline visitor experience
+* Reduce overhead
+* Reduce costs
+* Improve maintenance
