@@ -4,20 +4,24 @@
         "frederic-dewinne.md",
         "pieter-frenssen.md"
     ],
-    "background.md",
-    "example-1.md",
-    "example-2.md",
-    "example-3.md",
-    "example-4.md",
-    "target-audience.md",
-    "adopting-drupal.md",
-    "nexteuropa-distribution.md",
-    "rising-challenges.md",
-    "growing-too-fast.md",
-    "distributed-teams.md",
-    "outdated-practices.md",
-    "bottlenecks.md",
-    "regressions.md",
+    [
+        "background.md",
+        "example-1.md",
+        "example-2.md",
+        "example-3.md",
+        "example-4.md",
+        "target-audience.md",
+        "adopting-drupal.md",
+        "nexteuropa-distribution.md"
+    ],
+    [
+        "rising-challenges.md",
+        "growing-too-fast.md",
+        "distributed-teams.md",
+        "outdated-practices.md",
+        "bottlenecks.md",
+        "regressions.md"
+    ],
     "goals.md",
     "industrialization.md",
     [
