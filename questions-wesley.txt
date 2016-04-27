@@ -14,3 +14,4 @@
     https://europa.eu/youth/splash
 
 - What were the EC goals when they decided to industrialize development?
+    For the time being, DG's were building sites on their own with their contractors/hosting/technologies... it provided them lot of flexibility but also lot of overhead, cost, difficulty to maintain and from a user perspective no coherence. In order to rationalize the EC web presence wit a more central team (NextEuropa) it was obvious that we had to automate and industrialize our procedure to cope with the request we recieve from all DG's
