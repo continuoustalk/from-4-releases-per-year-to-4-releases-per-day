@@ -12,3 +12,5 @@
     https://ec.europa.eu/programmes/horizon2020/
     https://ec.europa.eu/commission/2014-2019_en
     https://europa.eu/youth/splash
+
+- What were the EC goals when they decided to industrialize development?

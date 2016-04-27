@@ -9,5 +9,20 @@
     "distributed-teams.md",
     "outdated-practices.md",
     "bottlenecks.md",
-    "regressions.md"
+    "regressions.md",
+    "goals.md",
+    "industrialization.md",
+    [
+        "define-a-toolset.md",
+        "dependency-management-with-composer.md"
+    ],
+    [
+        "adopt-a-practice.md",
+        "continuous-integration.md",
+        "continuous-delivery.md",
+        "continuous-deployment.md",
+        "continuous-comparison.md",
+    ],
+    "branching-model.md",
+    "environment-management.md"
 ]
