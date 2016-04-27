@@ -1,3 +1,6 @@
 ##  Dependency Management with Composer
 
-This is a new Markdown slide
+* Dependency Manager for PHP
+* focused on library dependencies
+* define php version and extension requirements
+* https://getcomposer.org

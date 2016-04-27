@@ -1,3 +1,8 @@
 ##  Managing tasks with Phing
 
-This is a new Markdown slide
+* PHing Is Not GNU make
+* PHP Project build tool
+* based on Apache Ant
+* written in PHP; easily extensible by PHP developers
+* define sequences of tasks
+* organized in targets

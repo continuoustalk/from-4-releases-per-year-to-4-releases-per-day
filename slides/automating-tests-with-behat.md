@@ -1,3 +1,5 @@
 ##  Automating tests with Behat
 
-This is a new Markdown slide
+* inspired by Cucumber
+* uses Gherkin syntax to define specs
+* supports several web browser drivers through extensions
