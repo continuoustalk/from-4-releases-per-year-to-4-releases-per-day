@@ -1,3 +1,10 @@
 ##  Thank you
 
-This is a new Markdown slide
+### Questions?
+
+Slides:
+https://github.com/continuousphp/DrupalConNewOrleans
+
+Follow us on Twitter:
+* https://twitter.com/fdewinne
+* https://twitter.com/pfrenssen

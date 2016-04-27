@@ -1,3 +1,9 @@
 ##  Moving to git
 
-This is a new Markdown slide
+https://github.com/ec-europa
+
+* Move to Github
+* Git Flow
+* Convert from SVN
+* Clean up history
+* Training and support
