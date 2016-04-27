@@ -1,5 +1,9 @@
 [
-    "index.md",
+    [
+        "index.md",
+        "frederic-dewinne.md",
+        "pieter-frenssen.md"
+    ],
     "background.md",
     "example-1.md",
     "example-2.md",
@@ -36,5 +40,6 @@
         "continuous-comparison.md"
     ],
     "branching-model.md",
-    "environment-management.md"
+    "environment-management.md",
+    "thank-you.md"
 ]
