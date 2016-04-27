@@ -1,3 +1,4 @@
 ##  Regressions
 
-This is a new Markdown slide
+* High rate of code change
+* No systematic automated testing

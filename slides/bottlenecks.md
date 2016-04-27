@@ -2,4 +2,4 @@
 
 * Manual code review
 * Manual deployment
-* Manual testing every 3 months
+* Manual updating every 3 months
