@@ -18,7 +18,15 @@
     "industrialization.md",
     [
         "define-a-toolset.md",
-        "dependency-management-with-composer.md"
+        "moving-to-git.md",
+        "dependency-management-with-composer.md",
+        "managing-tasks-with-phing.md",
+        "checking-coding-rules-with-phpcodesniffer.md",
+        "automating-tests-with-behat.md",
+        "packing-system-images-with-packer.md",
+        "creating-on-demand-environment-with-aws.md",
+        "delivery-pipelines-with-continuousphp.md",
+        "using-skeletons.md"
     ],
     [
         "adopt-a-practice.md",
