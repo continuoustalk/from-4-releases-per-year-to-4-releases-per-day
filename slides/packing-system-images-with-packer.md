@@ -1,3 +1,5 @@
 ##  Packing system images with Packer
 
-This is a new Markdown slide
+* immutable infrastructure approach
+* virtualization abstraction layer
+* versioned configuration
