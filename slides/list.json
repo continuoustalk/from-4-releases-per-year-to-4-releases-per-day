@@ -1,6 +1,11 @@
 [
     [
-        "index.md",
+        {
+            "filename": "index.html",
+            "attr": {
+                "data-background": "cover.png"
+            }
+        },
         "frederic-dewinne.html",
         "pieter-frenssen.md"
     ],
@@ -87,5 +92,10 @@
     "branching-model.html",
     "environment-management.html",
     "achievements.md",
-    "thank-you.md"
+    {
+        "filename": "thank-you.md",
+        "attr": {
+            "data-background": "cover.png"
+        }
+    }
 ]
