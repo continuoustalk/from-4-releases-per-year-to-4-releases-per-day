@@ -46,7 +46,42 @@
         "continuous-integration.md",
         "continuous-delivery.md",
         "continuous-deployment.md",
-        "continuous-comparison.md"
+        {
+            "filename": "continuous-comparison-1.html",
+            "attr": {
+                "data-transition": "slide-in"
+            }
+        },
+        {
+            "filename": "continuous-comparison-2.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "continuous-comparison-3.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "continuous-comparison-4.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "continuous-comparison-5.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "continuous-comparison-6.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
     ],
     "branching-model.md",
     "environment-management.md",
