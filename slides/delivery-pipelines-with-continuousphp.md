@@ -6,3 +6,4 @@
 * focused on PHP
 * Enterprise support with Technical Account Manager
 * trainings
+* no vendor lock-in
