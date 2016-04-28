@@ -4,4 +4,4 @@
 * Hundreds of websites, many in static HTML
 * Millions of pages, total is unknown
 * Myriad of different technologies
-* Single portal: http://europa.eu
+* Single portal: http://ec.europa.eu
