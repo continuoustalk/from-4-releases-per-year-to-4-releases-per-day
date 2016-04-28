@@ -6,10 +6,10 @@
     ],
     [
         "background.md",
-        "example-1.md",
-        "example-2.md",
-        "example-3.md",
-        "example-4.md",
+        "example-1.html",
+        "example-2.html",
+        "example-3.html",
+        "example-4.html",
         "target-audience.md",
         "adopting-drupal.md",
         "nexteuropa-distribution.md"
@@ -39,6 +39,7 @@
         "creating-on-demand-environment-with-aws.md",
         "aws-sample.md",
         "delivery-pipelines-with-continuousphp.md",
+        "continuousphp-pipelines.html",
         "using-skeletons.md"
     ],
     [
@@ -83,7 +84,7 @@
             }
         }
     ],
-    "branching-model.md",
-    "environment-management.md",
+    "branching-model.html",
+    "environment-management.html",
     "thank-you.md"
 ]
