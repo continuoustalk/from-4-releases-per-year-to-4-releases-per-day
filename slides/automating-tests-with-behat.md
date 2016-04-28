@@ -3,3 +3,6 @@
 * inspired by Cucumber
 * uses Gherkin syntax to define specs
 * supports several web browser drivers through extensions
+
+note:
+    behat with PhantomJS

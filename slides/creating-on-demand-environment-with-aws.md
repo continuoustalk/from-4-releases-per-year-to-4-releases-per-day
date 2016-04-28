@@ -3,3 +3,6 @@
 * coded infrastructure
 * new environments deployed in a few minutes
 * pay per use
+
+note:
+    Mention Azure too
